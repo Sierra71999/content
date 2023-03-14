@@ -24,7 +24,7 @@ Mastering the use of arrays and loops is one of the 5 fundamental skills of buil
 
 **No no no… Wait... Arrays? What?**
 
-An array is, normally, any list or collection of values. The rules of how to add or remove elements from that list can change from one programming language to another. But (generally) they are the only ways for developers to create elements.
+An array is, normally, any list or collection of values. The rules of how to add or remove elements from the list can change from one programming language to another. But (generally) they are the only ways for developers to create elements.
 
 Arrays are the only way we have to list stuff; regardless of the application you are working with, it will always have things to list. For example, list of students, list of artists, list of transactions… anything!
 
